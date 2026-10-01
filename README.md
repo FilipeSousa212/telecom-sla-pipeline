@@ -4,7 +4,7 @@ Pipeline de dados que responde, em segundos, a pergunta que uma prestadora de se
 
 Arquitetura medalhão sobre 0,5 milhão de registros sintéticos de operação FTTH ordens de serviço, alarmes de rede óptica e medições diárias de potência terminando num modelo estrela e num painel interativo.
 
-**[→ Ver o painel](https://claude.ai/artifact/GiJP8H3LXn1wm66W5v19Ev)**
+**[→ Ver o painel][(https://claude.ai/artifact/GiJP8H3LXn1wm66W5v19Ev](https://claude.ai/artifact/GiJP8H3LXn1wm66W5v19Ev))**
 
 
 ## O problema
