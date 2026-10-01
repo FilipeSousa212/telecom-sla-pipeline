@@ -1,0 +1,23 @@
+cd "F:/Projetos/Projeto - Gerador de dados Telecom" && cat > .gitignore <<'EOF'
+# Dados gerados - reproduziveis com `python gerador_dados_telecom.py` (seed 42)
+dados_telecom/
+silver/
+gold/
+*.duckdb
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Spark local
+spark-warehouse/
+metastore_db/
+derby.log
+
+# SO e editor
+.DS_Store
+Thumbs.db
+EOF
